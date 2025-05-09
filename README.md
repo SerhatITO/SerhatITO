@@ -15,6 +15,5 @@ Yazılım Mühendisliği öğrencisiyim. C#, .NET ve Python alanlarında çalı�
 
 📫 Bana ulaşmak istersen: `yusufserhatsahin@gmail.com`
 
-![Serhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerhatITO&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerhatITO&layout=compact)
+
 
