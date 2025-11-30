@@ -11,7 +11,7 @@ Yazılım Mühendisliği öğrencisiyim. C#, .NET ve Python alanlarında çalı�
 ## 🛠️ Kullandığım Teknolojiler
 - C#, ASP.NET Core, SQL Server
 - Python, Flask, PyTorch
-- HTML, CSS, Bootstrap
+- HTML, CSS, Bootstrap, JS
 
 📫 Bana ulaşmak istersen: `yusufserhatsahin@gmail.com`
 
